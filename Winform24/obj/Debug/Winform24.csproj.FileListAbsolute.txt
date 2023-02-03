@@ -1,0 +1,11 @@
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\bin\Debug\Winform24.exe.config
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\bin\Debug\Winform24.exe
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\bin\Debug\Winform24.pdb
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\obj\Debug\Winform24.csproj.AssemblyReference.cache
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\obj\Debug\Winform24.Form1.resources
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\obj\Debug\Winform24.Form2.resources
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\obj\Debug\Winform24.Properties.Resources.resources
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\obj\Debug\Winform24.csproj.GenerateResource.cache
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\obj\Debug\Winform24.csproj.CoreCompileInputs.cache
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\obj\Debug\Winform24.exe
+C:\Users\Göktuğ\source\repos\Winform24\Winform24\obj\Debug\Winform24.pdb
